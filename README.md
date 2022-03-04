@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+🌱 I’m currently proposing managed services for Azure and some stuff for synchronization with MIM
+Also PHP.
+🔭 I’m currently working on API Management and webhooks for various applications.
+
+Drop me a line.
+
+
 <!--
 **zoltar00/zoltar00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
